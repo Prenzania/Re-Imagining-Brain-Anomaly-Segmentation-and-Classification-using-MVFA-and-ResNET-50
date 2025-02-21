@@ -1,0 +1,8 @@
+numpy
+tqdm
+scipy
+pandas
+ftfy
+regex
+scikit-learn
+kornia

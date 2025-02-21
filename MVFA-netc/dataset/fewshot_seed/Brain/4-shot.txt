@@ -1,0 +1,2 @@
+a-0: BraTS-GoAT-00000.png BraTS-GoAT-00003.png BraTS-GoAT-00004.png BraTS-GoAT-00006.png
+n-0: BraTS-GoAT-00012.png BraTS-GoAT-00014.png BraTS-GoAT-00026.png BraTS-GoAT-00052.png 
